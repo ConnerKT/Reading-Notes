@@ -23,5 +23,9 @@ In markdown you can do things such as bold and italic
 *Italic* is done with one *.
 
 Bold and Italic is done with three ***.
+
 ***See!***.
+
 (Remember to use the *** before and after!).
+
+(Also remember that you can use "_" instad of "*", but its up to you!!!
