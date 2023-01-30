@@ -1,5 +1,7 @@
 # Class 01
 
+![Code Crew](https://static.wixstatic.com/media/13ef5b_d40631ac9d134e878f779f5e068e718f~mv2.png)
+
 ## Github
 
 So in class we learned about making repo's in Github, and how to deploy a page for that repo. I learned how to use markdown to-
