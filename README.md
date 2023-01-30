@@ -7,7 +7,9 @@ Hello my name is Conner Thompson, I'm currently 20 at the time of writing this, 
 There's a lot to know about me, and I'd love to get to know you.
 Here's some important informtion:
 
-[**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/)
+[**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/).
+
+
 [**Contacts**](/Reading-Notes/Contacts)
 
 
