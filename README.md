@@ -6,7 +6,9 @@ This for the Code Crew Class Notes 📓
 Hello my name is Conner Thompson, I'm currently 20 at the time of writing this, and I know Python and *learning* Markdown :grinning:
 There's a lot to know about me, and I'd love to get to know you.
 
-![Me!](/Reading-Notes/029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg/)
+<img src="029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg" width="200" height="200">
+^ Me!
+
 
 
 Here's some important informtion:
