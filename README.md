@@ -8,6 +8,7 @@ There's a lot to know about me, and I'd love to get to know you.
 Here's some important informtion:
 
 [**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/)
+[**Contacts**](/Reading-Notes/Contacts)
 
 
 
