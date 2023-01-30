@@ -18,6 +18,6 @@ These headings get smaller with the more you use!
 
 In markdown you can do things such as bold and italic
 
-Bold is done with two 
+Bold is done with two **.
 
-Italic is done with 
+Italic is done with one *.
