@@ -11,7 +11,7 @@ create different forms of text for my repo.
 
 Different syntax in Markdown allow you to perform cool things such as forming a website!
 
-### Headings
+## Headings
 
 So for syntax in markdown I learned how to use "#'s" to form headings.
 These headings get smaller with the more you use!
