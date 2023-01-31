@@ -1,4 +1,5 @@
 # READING NOTES
+
 This for the Code Crew Class Notes 📓
 
 ## Who am I?!
@@ -6,10 +7,9 @@ This for the Code Crew Class Notes 📓
 Hello my name is Conner Thompson, I'm currently 20 at the time of writing this, and I know Python and *learning* Markdown :grinning:
 There's a lot to know about me, and I'd love to get to know you.
 
-<img src="029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg" width="200" height="200">
+<img src="029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg" width="200" height="200">.
+
 ^ Me!
-
-
 
 Here's some important informtion:
 
@@ -18,7 +18,7 @@ Here's some important informtion:
 
 [**Contacts**](/Reading-Notes/Contacts)
 
-
+# Table of Contents
 
 ## [Class 01](https://connerkt.github.io/Reading-Notes/Class01/)
 
@@ -30,5 +30,6 @@ Learning about Texter Editors (and IDE's) and also on Terminal commands that can
 
 ## [Class 03](https://connerkt.github.io/Reading-Notes/Class03/)
 
+Learning how to use Git!, Commands for Git and more
 
 ## Class 04
