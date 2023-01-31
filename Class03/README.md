@@ -44,6 +44,8 @@ git stash apply (comes back)
 
 **When cloning repos, Git will give the original repo the name origin, and your copy is becoming the master**
 
+## Things I want to know!
 
-
+I want to learn how to fully master git, not using github desktop in order to commit
+I want to practice my uses of git.
 
