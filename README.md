@@ -20,11 +20,13 @@ Here's some important informtion:
 
 
 
-## [Class 01](/Reading-Notes/Class01)
+## [Class 01](/Reading-Notes/Class01/)
 
 Today we're making Github pages site!
 
-## Class 02
+## [Class 02](/Reading-Notes/Class02)
+
+Learning about Texter Editors (and IDE's) and also on Terminal commands that can be used on Linux and other OS
 
 ## Class 03
 
