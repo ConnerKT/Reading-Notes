@@ -24,12 +24,14 @@ Here's some important informtion:
 
 Today we're making Github pages site!
 
+
 ## [Class 02](/Reading-Notes/Class02/)
 
 ## [Class 02](/Reading-Notes/Class03/)
 
 Learning about Texter Editors (and IDE's) and also on Terminal commands that can be used on Linux and other OS
 
-## Class 03
+## [Class 03](/Reading-Notes/Class03/)
+
 
 ## Class 04
