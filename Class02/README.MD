@@ -9,7 +9,7 @@ References
 <https://ryanstutorials.net/linuxtutorial/navigation.php>
 <https://ryanstutorials.net/linuxtutorial/aboutfiles.php>
 
-## [Lab 2 Assignment](/Reading-Notes/Class02/Lab02)
+## [Lab 2 Assignment](https://connerkt.github.io/Reading-Notes/Class02/Lab02)
 
 ## The Command Line
 

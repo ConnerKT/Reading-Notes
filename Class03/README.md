@@ -1,5 +1,7 @@
 # Class 03 Reading Notes
 
+# [Class 03 Lab](https://connerkt.github.io/Reading-Notes/Class03/Lab03)
+
 ## References
 
 <https://blog.udemy.com/git-tutorial-a-comprehensive-guide/>

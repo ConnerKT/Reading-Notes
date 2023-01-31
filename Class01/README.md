@@ -4,7 +4,7 @@
 
 
  
-## [Lab 01 Assignment](/Reading-Notes/Class01/Lab01)
+## [Lab 01 Assignment](https://connerkt.github.io/Reading-Notes/Class01/Lab01)
 
 ## Github
 
