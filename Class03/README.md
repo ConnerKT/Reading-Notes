@@ -1,5 +1,9 @@
 # Class 03 Reading Notes
 
+## References
+
+<https://blog.udemy.com/git-tutorial-a-comprehensive-guide/>
+
 ## Importance
 
  This is important because I want to learn how to use Git, since it will be useful in my career.
