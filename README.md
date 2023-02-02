@@ -6,7 +6,7 @@ This is a WIP Site
 
 ## **Github Portfolio** <https://github.com/ConnerKT?tab=repositories/>
 
-## [**Contact Me**](https://connerkt.github.io/Reading-Notes/Misc/Contacts.md).
+## [**Contact Me**](https://connerkt.github.io/Reading-Notes/Contacts/).
 
 ## **[About Me](https://connerkt.github.io/Reading-Notes/AboutMe/)**.
 
