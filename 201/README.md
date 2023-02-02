@@ -9,10 +9,6 @@ This is subject to change.
 
 WIP
 
-## [Class01](https://connerkt.github.io/Reading-Notes/201/Class01)
-
-WIP
-
 ## [Class02](https://connerkt.github.io/Reading-Notes/201/Class02)
 
 WIP
