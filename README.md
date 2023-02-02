@@ -4,7 +4,7 @@ This for the Code Crew Class Notes 📓
 
 This is a WIP Site
 
-## [**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/).
+## **Github Portfolio** <https://github.com/ConnerKT?tab=repositories/>
 
 ## [**Contact Me**](https://connerkt.github.io/Reading-Notes/Misc/Contacts.md).
 
