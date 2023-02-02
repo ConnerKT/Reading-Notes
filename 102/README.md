@@ -1,20 +1,8 @@
-# READING NOTES
+# READING NOTES Section 102!!!
 
-This for the Code Crew Class Notes 📓
+This is where the Notes for the 102 Section will be contained.
 
-# **About Me!**
-
-Hello my name is Conner Thompson, I'm currently 20 at the time of writing this, and I know Python and *learning* Markdown :grinning:
-There's a lot to know about me, and I'd love to get to know you.
-
-<img src="029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg" width="200" height="200">.
-
-^ Me!
-
-[**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/).
-
-
-[**Contacts**](/Reading-Notes/Contacts)
+For references, This will contain foundational knowledge such as using Git, IDE Knowledge, and basic Markdown knowledge as well!
 
 # **Table of Contents**
 
@@ -30,4 +18,30 @@ Learning about Texter Editors (and IDE's) and also on Terminal commands that can
 
 Learning how to use Git!, Commands for Git and more
 
-## Class 04
+## [Class 04](https://connerkt.github.io/Reading-Notes/102/Class04/)
+
+Structuring Web Pages With HTML (WIP)
+
+## [Class 05](https://connerkt.github.io/Reading-Notes/102/Class05/)
+
+Designing Web Pages with CSS (WIP)
+
+## [Class 06](https://connerkt.github.io/Reading-Notes/102/Class06/)
+
+Activating Web Pages with Java Script (WIP)
+
+## [Class 07](https://connerkt.github.io/Reading-Notes/102/Class07/)
+
+Programming with JavaScript (WIP)
+
+## [Class 08](https://connerkt.github.io/Reading-Notes/102/Class08/)
+
+Operators and Loops (WIP)
+
+## [Class 09](https://connerkt.github.io/Reading-Notes/102/Class09/)
+
+Career Coaching (WIP)
+
+## [Class 10](https://connerkt.github.io/Reading-Notes/102/Class10/)
+
+201 Entrance (WIP)

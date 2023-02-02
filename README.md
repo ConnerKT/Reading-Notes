@@ -1,32 +1,17 @@
-# READING NOTES
+# **READING NOTES - Intro to Software Dev.**
 
 This for the Code Crew Class Notes 📓
 
-# **About Me!**
+This is a WIP Site
 
-Hello my name is Conner Thompson, I'm currently 20 at the time of writing this, and I know Python and *learning* Markdown :grinning:
-There's a lot to know about me, and I'd love to get to know you.
+## [**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/).
 
-<img src="029E43B1-84FA-4E86-A74D-D9AC0DA8B4D4.jpeg" width="200" height="200">.
+## [**Contact Me**](https://connerkt.github.io/Reading-Notes/Misc/Contacts.md).
 
-^ Me!
-
-[**Github Portfolio**](/https://github.com/ConnerKT?tab=repositories/).
-
-[**Contacts**](/Reading-Notes/Contacts)
+## **[About Me](https://connerkt.github.io/Reading-Notes/AboutMe/)**.
 
 # **Table of Contents**
 
-## [Class 01](https://connerkt.github.io/Reading-Notes/102/Class01/)
+## [102 Section](https://connerkt.github.io/Reading-Notes/102/)
 
-Today we're making Github pages site!
-
-## [Class 02](https://connerkt.github.io/Reading-Notes/102/Class02/)
-
-Learning about Texter Editors (and IDE's) and also on Terminal commands that can be used on Linux and other OS
-
-## [Class 03](https://connerkt.github.io/Reading-Notes/102/Class03/)
-
-Learning how to use Git!, Commands for Git and more
-
-## Class 04
+## [201 Section](https://connerkt.github.io/Reading-Notes/201)
