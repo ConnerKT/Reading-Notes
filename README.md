@@ -2,7 +2,7 @@
 
 This for the Code Crew Class Notes 📓
 
-This is a WIP Site
+This is a WIP Site (Will be better)
 
 ## **Github Portfolio** <https://github.com/ConnerKT?tab=repositories/>
 

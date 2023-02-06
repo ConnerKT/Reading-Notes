@@ -27,7 +27,7 @@ An option modifies the behavior of a command
 Within the terminal is a shell, which defines how your terminal behaves
 **Bash** is the most popular (Mac comes with zsch)
 
-## Navigation
+## Navigation Notes
 
 **pwd** - prints current dir
 **ls** - tells whats in the current dir
