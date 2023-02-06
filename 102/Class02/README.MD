@@ -69,9 +69,3 @@ Spaces in names can be found if using certain methods:
 I want to explore more of the opening program side of command lines
 How do I automate this?
 
-
-
-
-
-
-
