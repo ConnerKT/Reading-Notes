@@ -20,19 +20,19 @@ Learning how to use Git!, Commands for Git and more
 
 ## [Class 04](https://connerkt.github.io/Reading-Notes/102/Class04/)
 
-Structuring Web Pages With HTML (WIP)
+Structuring Web Pages With HTML 
 
 ## [Class 05](https://connerkt.github.io/Reading-Notes/102/Class05/)
 
-Designing Web Pages with CSS (WIP)
+Designing Web Pages with CSS
 
 ## [Class 06](https://connerkt.github.io/Reading-Notes/102/Class06/)
 
-Activating Web Pages with Java Script (WIP)
+Activating Web Pages with Java Script
 
 ## [Class 07](https://connerkt.github.io/Reading-Notes/102/Class07/)
 
-Programming with JavaScript (WIP)
+Programming with JavaScript
 
 ## [Class 08](https://connerkt.github.io/Reading-Notes/102/Class08/)
 
