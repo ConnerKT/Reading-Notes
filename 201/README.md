@@ -5,62 +5,68 @@ This is subject to change.
 
 # Table of Contents
 
+# Module 1 - Intro to Web Dev.
+
 ## [Class01](https://connerkt.github.io/Reading-Notes/201/Class01)
 
-WIP
+Setup Developer Toolbelt
 
 ## [Class02](https://connerkt.github.io/Reading-Notes/201/Class02)
 
-WIP
+Introduction to Web Development
 
 ## [Class03](https://connerkt.github.io/Reading-Notes/201/Class03)
 
-WIP
+Lists, The Box Model, and Loops
 
 ## [Class04](https://connerkt.github.io/Reading-Notes/201/Class04)
 
-WIP
+Links, Layouts, and Functions
 
 ## [Class05](https://connerkt.github.io/Reading-Notes/201/Class05)
 
-WIP
+Images, Color, Text, and More Work With Functions
+
+# Module 2 - The DOM, and Domain Modeling with Object Literals
 
 ## [Class06](https://connerkt.github.io/Reading-Notes/201/Class06)
 
-WIP
+Domain Modeling, Intro to the DOM, and Object Literal Notation
 
 ## [Class07](https://connerkt.github.io/Reading-Notes/201/Class07)
 
-WIP
+HTML Tables and JS Constructor Functions
 
 ## [Class08](https://connerkt.github.io/Reading-Notes/201/Class08)
 
-WIP
+Layout with CSS
 
 ## [Class09](https://connerkt.github.io/Reading-Notes/201/Class09)
 
-WIP
+Forms and Events
 
 ## [Class10](https://connerkt.github.io/Reading-Notes/201/Class10)
 
-WIP
+Debugging and Error Handling
+
+# Module 3 - Libraries and Local Storage
 
 ## [Class11](https://connerkt.github.io/Reading-Notes/201/Class11)
 
-WIP
+Audio and Video in HTML; Domain Modeling Revisited
 
 ## [Class12](https://connerkt.github.io/Reading-Notes/201/Class12)
 
-WIP
+Canvas and ChartJS
 
 ## [Class13](https://connerkt.github.io/Reading-Notes/201/Class13)
 
-WIP
+Introduction to Persistence with Local Storage
 
 ## [Class14](https://connerkt.github.io/Reading-Notes/201/Class14)
 
-WIP
+Documentation, Project Selection, and Team Workflow
 
 ## [Class15](https://connerkt.github.io/Reading-Notes/201/Class15)
 
-WIP
+Course Recap and 301 Preview

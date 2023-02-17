@@ -15,3 +15,7 @@ This is a WIP Site (Will be better)
 ## [102 Section](https://connerkt.github.io/Reading-Notes/102/)
 
 ## [201 Section](https://connerkt.github.io/Reading-Notes/201)
+
+## [301 Section](https://connerkt.github.io/Reading-Notes/301)
+
+## [401 Section](https://connerkt.github.io/Reading-Notes/401)
