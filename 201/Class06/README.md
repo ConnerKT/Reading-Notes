@@ -45,3 +45,18 @@ Objects are sometimes called associative arrays.
 ## Introduction to the DOM
 
 **DOM** is the data representation of the objects that comprise the structure and content of a document on the web.
+
+DOM allows web pages to be manipulated.
+
+Object orientated representation of web page, modified using javascript.
+
+    const paragraphs = document.querySelectorAll("p");
+    // paragraphs[0] is the first <p> element
+    // paragraphs[1] is the second <p> element, etc.
+    alert(paragraphs[0].nodeName);
+
+This returns all p tags in an element, and puts it in an object.
+
+DOM is a web API.
+
+
