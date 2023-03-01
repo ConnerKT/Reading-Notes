@@ -59,4 +59,13 @@ This returns all p tags in an element, and puts it in an object.
 
 DOM is a web API.
 
+### DOM Questions
+
+1. DOM is an web API that helps manipulate the HTML in your web page.
+2. DOM is independent from JavaScript, it can be used in it however to make changes in your page.
+
+## Things I want to know morea bout
+
+I want to learn more syntax for using DOM.
+How do you make more complicated fields for DOM.
 
