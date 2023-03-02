@@ -72,7 +72,8 @@ When you call a constructor it will create a new object, bind this to the new ob
 
 ## Object Prototype Using A Constructor
 
-1. 
+1. If I was training under someone at my job at target, they would pass their skills onto me and I would also learn skills myself which makes me unique myself.
+
 
 
 ## Things I want to know more about
