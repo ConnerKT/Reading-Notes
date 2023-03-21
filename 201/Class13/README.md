@@ -79,6 +79,15 @@ Using the **Json.stringify()** and the **JSON.parse()** methods help with this.
     localStorage.setItem( 'car', JSON.stringify(car) );
     console.log( JSON.parse( localStorage.getItem( 'car' ) ) );
 
+
+### Local Storage Questions
+
+1. To retain information about the user, like what section they're at, or if they did some actions.
+
+2. Personal data, passwords, information that can be used in a poor way.
+
+3. It stores strings. You can use json.stringify and json.parse methods to help with that.
+
 ## Things I want to know more about
 
 I want to know more about applying local storage to my sites, what data to retain and how to prompt users with a GUI that asks if they want to give me cookies.
