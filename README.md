@@ -1,4 +1,5 @@
 # **READING NOTES - Intro to Software Dev.**
+[Direct Link](https://connerkt.github.io/Reading-Notes/)
 
 This for the Code Crew Class Notes 📓
 
