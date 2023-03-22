@@ -151,4 +151,10 @@ It includes the animation name, any animation breakpoints, and its properties.
 
 I want to know more about looping css animations to make interesting designs.
  I want to know more about keyframing.
- 
+
+
+### Psychological Safety Questions
+
+1. Dependability, structure, and psychological safety.
+2. In college I had a group where I did english work, and we would share our work without being ashamed or worried about being judged. It was nice to show your work to get feedback and it was friendly to make friends as well.
+3. It produces great work places where people can collaborate and bring great project ideas to board without being scared of being judged.
