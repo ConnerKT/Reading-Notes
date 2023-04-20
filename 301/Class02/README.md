@@ -1,5 +1,7 @@
 # State and Props
 
+This topic is important to me because these are key components of React, and I want to become great at using it.
+
 ## [Retrospective 2](https://connerkt.github.io/Reading-Notes/301/Class02/Retro02)
 
 ## References
