@@ -14,3 +14,4 @@
 3. I should approach these labs more quickly, and try my best to understand more.
 4. I think how components work essentially in React, but that comes with time.
 
+This assignment isn't done yet, but the underlying principles for it are something I believe I can do. The whole lab I haven't started yet because I just got done with Lab 02, but I believe if given the time I can complete this.
