@@ -74,8 +74,7 @@ PATCH requires the client only send parts of the representation of the resource 
 
 ## Build A REST API With Node.js, Express, & MongoDB
 
-https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
-PLACEHOLDER FOR VIDEOS WATCH
+[Video](https://www.youtube.com/watch?v=fgTGADljAeg&t=538s)
 
 ### Build A REST API With Node.js, Express, & MongoDB Questions
 
@@ -90,14 +89,14 @@ PLACEHOLDER FOR VIDEOS WATCH
 
 ### Build A REST API With Node.js, Express, & MongoDB Answers
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. To keep our database information hidden when deployed.
+2. Code that runs when the server the server is requested.
+3. It lets our server accept json as a body.
+4. It lets us access data from a database with that id.
+5. Patch is to update but put can change a resource but also upload.
+6. The default property
+7. It means theres an internal problem with the server.
+8. 200 means successful request, 201 means successful creation.
 
 ## Things I want to know more about
 
