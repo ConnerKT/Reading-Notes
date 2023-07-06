@@ -15,9 +15,33 @@ This topic is important to me because I want to learn how to handle exceptions i
 <https://docs.microsoft.com/en-us/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions>.
 <https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/exception-handling-statements>.
 
-## Lab 1a Notes
+## Debugging in C#
 
+Debugging is running our code in steps to fix the exact point where the mistake is made, its not perfect.
 
+Make assumptions in order to try and solve it, try to dig for the answer before debugging.
+
+Using the debug button, we insert a breakpoint.
+
+Keep restarting and checking the debugger results, analyzing your code to determine where the mistake was made.
+
+## Try and Catch in C#
+
+**Try and Catch** are used to handle exceptions. You use the try block to try execute code and use the catches incase it catches a certain exception.
+
+    try
+    {
+    // Code that might throw an exception
+    int numerator = 10;
+    int denominator = 0;
+    int result = numerator / denominator; // This line will throw an        exception
+    Console.WriteLine("The result is: " + result);
+    }   
+    catch (DivideByZeroException ex)
+    {
+    // Code to handle the exception
+    Console.WriteLine("An exception occurred: " + ex.Message);
+    }
 
 ## Things I want to know more about
 
