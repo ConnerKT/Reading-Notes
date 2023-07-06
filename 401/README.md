@@ -4,6 +4,10 @@ This is for the 301 Section of the Software Development Course.
 
 # **Table of Contents**
 
+# Misc. Notes
+
+## [Misc Page](https://connerkt.github.io/Reading-Notes/401/Misc)
+
 # Module 1 : .NET and OOP
 
 Exception Handling
