@@ -22,6 +22,8 @@ File Manipulation / System.IO
 
 ## [Class03](https://connerkt.github.io/Reading##Notes/401/Class03)
 
+Classes and Memory Management
+
 ## [Class04](https://connerkt.github.io/Reading##Notes/401/Class04)
 
 ## [Class05](https://connerkt.github.io/Reading##Notes/401/Class05)

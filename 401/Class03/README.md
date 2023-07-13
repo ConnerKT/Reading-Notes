@@ -2,7 +2,7 @@
 
 This topic is important to me because I think its cool that I can modify my computer files by using code.
 
-## [Retrospective 3](https://connerkt.github.io/Reading-Notes/401/Class02/Retro03)
+## [Retrospective 3](https://connerkt.github.io/Reading-Notes/401/Class03/Retro03)
 
 ## References
 
