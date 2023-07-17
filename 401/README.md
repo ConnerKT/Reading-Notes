@@ -26,7 +26,11 @@ Classes and Memory Management
 
 ## [Class04](https://connerkt.github.io/Reading-Notes/401/Class04)
 
+Linked List(Notes and resources)
+
 ## [Class05](https://connerkt.github.io/Reading-Notes/401/Class05)
+
+Object Oriented Principles
 
 ## [Class06](https://connerkt.github.io/Reading-Notes/401/Class06)
 
