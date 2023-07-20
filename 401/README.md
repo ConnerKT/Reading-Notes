@@ -38,6 +38,8 @@ Interfaces
 
 ## [Class07](https://connerkt.github.io/Reading-Notes/401/Class07)
 
+Collections & Enums
+
 ## [Class08](https://connerkt.github.io/Reading-Notes/401/Class08)
 
 ## [Class09](https://connerkt.github.io/Reading-Notes/401/Class09)

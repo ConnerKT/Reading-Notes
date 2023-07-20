@@ -2,7 +2,7 @@
 
 This topic is important to me so I can build a deeper understanding of OOP principles, and learn how to manage my code.
 
-## [Retrospective 6](https://connerkt.github.io/Reading-Notes/401/Class07/Retro07)
+## [Retrospective 7](https://connerkt.github.io/Reading-Notes/401/Class07/Retro07)
 
 ## References
 
