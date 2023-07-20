@@ -34,6 +34,8 @@ Object Oriented Principles
 
 ## [Class06](https://connerkt.github.io/Reading-Notes/401/Class06)
 
+Interfaces
+
 ## [Class07](https://connerkt.github.io/Reading-Notes/401/Class07)
 
 ## [Class08](https://connerkt.github.io/Reading-Notes/401/Class08)
