@@ -42,25 +42,39 @@ Collections & Enums
 
 ## [Class08](https://connerkt.github.io/Reading-Notes/401/Class08)
 
+LINQ & Delegates
+
 ## [Class09](https://connerkt.github.io/Reading-Notes/401/Class09)
 
-## [Class10](https://connerkt.github.io/Reading-Notes/401/Class10)
+Introduction to Databases and ERDs
 
 ## [Class11](https://connerkt.github.io/Reading-Notes/401/Class11)
 
+Entity Framework and APIs
+
 ## [Class12](https://connerkt.github.io/Reading-Notes/401/Class12)
+
+Dependency Injection & Repository Design Pattern
 
 ## [Class13](https://connerkt.github.io/Reading-Notes/401/Class13)
 
+Navigation Properties and Routing
+
 ## [Class14](https://connerkt.github.io/Reading-Notes/401/Class14)
 
-## [Class15](https://connerkt.github.io/Reading-Notes/401/Class15)
+Data Transfer Objects
 
 ## [Class16](https://connerkt.github.io/Reading-Notes/401/Class16)
 
+Testing and Swagger and Deployment
+
 ## [Class17](https://connerkt.github.io/Reading-Notes/401/Class17)
 
+Identity
+
 ## [Class18](https://connerkt.github.io/Reading-Notes/401/Class18)
+
+Roles, Claims and JWT Tokens
 
 ## [Class19](https://connerkt.github.io/Reading-Notes/401/Class19)
 
