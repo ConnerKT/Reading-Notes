@@ -2,7 +2,7 @@
 
 This topic is important to me because I want to be able to perform SQL like queries directly on collections like arrays, lists, and DB's.
 
-## [Retrospective 8](https://connerkt.github.io/Reading-Notes/401/Class09/Retro09)
+## [Retrospective 9](https://connerkt.github.io/Reading-Notes/401/Class09/Retro09)
 
 ## References
 
