@@ -1,6 +1,10 @@
 # Section 401 Module Notes
 
-This is for the 301 Section of the Software Development Course.
+This is for the 401 Section of the Software Development Course.\
+
+**Notice**
+--------------
+In this module, Labs like 05, 10, 15, and so on might be missing..
 
 # **Table of Contents**
 
