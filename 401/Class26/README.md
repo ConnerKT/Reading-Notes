@@ -1,6 +1,6 @@
 # Intro to MVC
 
-This topic is important to me because 
+This topic is important to me because I want to learn more about MVC and how powerful it can be.
 
 ## [Retrospective 26](https://connerkt.github.io/Reading-Notes/401/Class16/Retro26)
 
